@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+node_modules/
+.env
+data/tskill.db
+data/chroma/
+*.log
+.ruff_cache/
+.pytest_cache/

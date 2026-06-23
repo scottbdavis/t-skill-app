@@ -1,0 +1,146 @@
+[
+  {
+    "id": "res-001",
+    "title": "AWS Machine Learning Specialty Certification",
+    "provider": "Amazon Web Services",
+    "source_type": "external",
+    "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
+    "skills": ["Cloud ML Services", "AI-Engineering"],
+    "description": "Validate expertise in building, training, tuning, and deploying ML models on AWS. Covers SageMaker, data engineering, and ML implementation best practices."
+  },
+  {
+    "id": "res-002",
+    "title": "Google Cloud Professional Cloud Architect",
+    "provider": "Google Cloud",
+    "source_type": "external",
+    "url": "https://cloud.google.com/certification/cloud-architect",
+    "skills": ["Cloud Architecture", "Enterprise Arch"],
+    "description": "Design and plan cloud solution architecture. Covers compute, networking, storage, security, and enterprise-grade deployments."
+  },
+  {
+    "id": "res-003",
+    "title": "Deep Learning Specialization",
+    "provider": "Coursera / Andrew Ng",
+    "source_type": "external",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "skills": ["AI-Engineering", "Python/PyTorch"],
+    "description": "Five-course sequence covering neural networks, hyperparameter tuning, CNNs, sequence models, and practical deep learning projects."
+  },
+  {
+    "id": "res-004",
+    "title": "Certified SAFe Agilist",
+    "provider": "Scaled Agile",
+    "source_type": "external",
+    "url": "https://www.scaledagile.com/certification/safe-agilist/",
+    "skills": ["SAFe", "Scrum Master/PMP"],
+    "description": "Enterprise-level agile leadership certification. Learn to apply Lean-Agile principles at scale across large development organizations."
+  },
+  {
+    "id": "res-005",
+    "title": "MITRE Internal Education - Cloud DevSecOps Bootcamp",
+    "provider": "MITRE Internal Ed",
+    "source_type": "internal",
+    "url": "https://intranet.mitre.org/devsecops-bootcamp",
+    "skills": ["Cloud DevSecOps", "Infra as Code"],
+    "description": "Internal 8-week intensive covering CI/CD pipelines, container security, infrastructure as code with Terraform, and compliance automation."
+  },
+  {
+    "id": "res-006",
+    "title": "FinOps Certified Practitioner",
+    "provider": "FinOps Foundation",
+    "source_type": "external",
+    "url": "https://www.finops.org/certification/",
+    "skills": ["AI for FinOps", "FinOps for Cloud AI", "FinOps & TBM"],
+    "description": "Industry certification for cloud financial management. Covers cost optimization, showback/chargeback, budgeting, and FinOps culture."
+  },
+  {
+    "id": "res-007",
+    "title": "Percipio - MLOps Fundamentals Learning Path",
+    "provider": "Percipio / Skill Soft",
+    "source_type": "internal",
+    "url": "https://percipio.skillsoft.com/mlops-fundamentals",
+    "skills": ["AI-ML/Ops", "Cloud AI Services"],
+    "description": "Self-paced learning path covering ML model lifecycle, experiment tracking, model registries, and automated retraining pipelines."
+  },
+  {
+    "id": "res-008",
+    "title": "Lean Six Sigma Black Belt Certification",
+    "provider": "ASQ",
+    "source_type": "external",
+    "url": "https://asq.org/cert/six-sigma-black-belt",
+    "skills": ["Master Blackbelt", "Lean Leader"],
+    "description": "Advanced process improvement certification. Covers DMAIC methodology, statistical analysis, design of experiments, and organizational change."
+  },
+  {
+    "id": "res-009",
+    "title": "Udemy - Kubernetes for DevOps and SRE",
+    "provider": "Udemy",
+    "source_type": "external",
+    "url": "https://www.udemy.com/course/kubernetes-sre/",
+    "skills": ["Monitoring", "Incident Mgmt", "Infra as Code"],
+    "description": "Hands-on course covering Kubernetes operations, Prometheus/Grafana monitoring, incident response playbooks, and GitOps workflows."
+  },
+  {
+    "id": "res-010",
+    "title": "TOGAF Enterprise Architecture Certification",
+    "provider": "The Open Group",
+    "source_type": "external",
+    "url": "https://www.opengroup.org/togaf",
+    "skills": ["Enterprise Arch", "Infrastructure Arch"],
+    "description": "Industry standard for enterprise architecture frameworks. Covers ADM, architecture governance, and stakeholder management."
+  },
+  {
+    "id": "res-011",
+    "title": "Value Stream Mapping Workshop",
+    "provider": "MITRE Internal Ed",
+    "source_type": "internal",
+    "url": "https://intranet.mitre.org/vsm-workshop",
+    "skills": ["VSM Facilitator", "Lean Leader"],
+    "description": "Two-day facilitated workshop on value stream mapping techniques, waste identification, and future-state design for IT delivery processes."
+  },
+  {
+    "id": "res-012",
+    "title": "Professional Scrum Trainer (PST) Pathway",
+    "provider": "Scrum.org",
+    "source_type": "external",
+    "url": "https://www.scrum.org/professional-scrum-trainer",
+    "skills": ["Scrum Trainer", "Scrum Master/PMP"],
+    "description": "Advanced pathway to become a licensed Scrum trainer. Requires demonstrated mastery of Scrum framework and teaching ability."
+  },
+  {
+    "id": "res-013",
+    "title": "Udacity - AI Product Manager Nanodegree",
+    "provider": "Udacity",
+    "source_type": "external",
+    "url": "https://www.udacity.com/course/ai-product-manager-nanodegree",
+    "skills": ["AI-Engineering", "Scrum Master/PMP"],
+    "description": "Learn to build AI products from ideation to deployment. Covers data strategy, model evaluation, and cross-functional AI team leadership."
+  },
+  {
+    "id": "res-014",
+    "title": "NotebookLM - Cloud AI Cost Optimization Study Guide",
+    "provider": "NotebookLM",
+    "source_type": "external",
+    "url": "https://notebooklm.google.com",
+    "skills": ["FinOps for Cloud AI", "Cloud AI Services"],
+    "description": "AI-generated interactive study guide covering GPU instance selection, spot pricing strategies, and reserved capacity planning for ML workloads."
+  },
+  {
+    "id": "res-015",
+    "title": "MITRE Degree Program - MS in Data Science",
+    "provider": "Degree Programs",
+    "source_type": "internal",
+    "url": "https://intranet.mitre.org/degree-programs/data-science",
+    "skills": ["AI-Engineering", "AI-ML/Ops", "Python/PyTorch"],
+    "description": "Employer-sponsored master's degree in data science. Covers statistical learning, deep learning, NLP, computer vision, and applied research methods."
+  },
+  {
+    "id": "res-016",
+    "title": "xAcademy - Site Reliability Engineering Bootcamp",
+    "provider": "xAcademy",
+    "source_type": "external",
+    "url": "https://xacademy.com/sre-bootcamp",
+    "skills": ["Incident Mgmt", "Monitoring", "Infra as Code"],
+    "description": "Intensive SRE bootcamp covering SLOs/SLIs, error budgets, toil reduction, on-call best practices, and chaos engineering fundamentals."
+  }
+]

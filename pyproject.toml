@@ -1,0 +1,23 @@
+[project]
+name = "t-skill-app"
+version = "0.1.0"
+description = "Agentic RAG application for T-shaped skill evaluation and professional development planning"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp",
+    "fastapi",
+    "uvicorn[standard]",
+    "openai",
+    "sqlalchemy",
+    "pydantic",
+    "pydantic-settings",
+    "chromadb",
+    "python-dotenv",
+    "truststore",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+]
